@@ -11,7 +11,7 @@
     <a class="logo" href="<?= $site->url()?>">
     <img src="<?= url('assets/images/bemo-logo2.png') ?>">
     </a>
-    <nav class="menu">
+    <nav class="navmenu">
         <?php forEach ($site->children()->listed() as $subpage): ?>
             <a href="<?= $subpage->url() ?>">
                 <?= $subpage->title() ?>

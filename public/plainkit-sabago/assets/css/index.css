@@ -39,12 +39,6 @@ img {
     height: 100%;
 }
 
-/* header img {
-    width: 167px;
-    height: 100px;
-    display: flex;
-    margin-top: 0;
-} */
 .logo {
     margin-top: 0;
     width: 167px;
@@ -66,62 +60,12 @@ img {
     text-decoration: underline;
 }
 
-/* .main img {
-    position: absolute;
-    margin-left: 0;
-    margin-right: 0;
-    width: 100%;
-    z-index: -1;
-} */
-
-/* .main-wrapper {
-    position: relative;
-    background-image:url('../images/cda-interview-guide.jpg');
-    height:0px;
-    width:100%;
-    margin-top: 0px;
-    padding: 0px;
-}
-
-.bottom-wrapper {
-    background-image:url('../images/cda-interview-guide.jpg');
-    margin-top: 0px;
-    padding: 0px;
-}
-
-.bottom-wrapper img {
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0px;
-    width: 100%;
-    height: 100%;
-} */
-/* .full-size-background {
-    z-index:-1;
-    background-image:url(cda-interview-guide.jpg);
-    background-position:fixed;
-    position:fixed;
-    top:0px;
-    left:0px;
-    width:100%;
-    height: 100%;
-    padding: 0px;
-} */
-
 .banner-text h2 {
-    /* font-family: 'Roboto', sans-serif; 
-    font-weight: 900; */
-    /* color: white;
-    margin: 0;
-    position: absolute;
-    top: 50%;*/
-    /* left: 50%;*/
     font-size: 46px; 
     font-weight: 400;
     line-height: 60px;
     letter-spacing: 20px;
     text-decoration: underline;
-    /* transform: translate(-50%, -50%);  */
   }
 
 .banner-text {
