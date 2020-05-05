@@ -1,0 +1,3 @@
+[submodule "public/sabagoBemo/public/sabagoBemo/starterkit"]
+	path = public/sabagoBemo/public/sabagoBemo/starterkit
+	url = https://github.com/getkirby/kirby.git
